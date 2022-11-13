@@ -32,4 +32,7 @@ The goal of this project is to predict which of the provided pairs of questions 
   <li>XGBoost</li>
   <li>CatBoost</li>
   <li>Scikit-learn</li>
+  <li>Keras</li>
+  <li>re</li>
+  <li>bs4</li>
 </ul>
