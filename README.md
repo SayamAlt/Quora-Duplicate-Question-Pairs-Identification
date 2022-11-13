@@ -29,8 +29,7 @@ The goal of this project is to predict which of the provided pairs of questions 
   <li>Seaborn</li>
   <li>Matplotlib</li>
   <li>NLTK</li>
-  <li>XGBoost</li>
-  <li>CatBoost</li>
+  <li>FuzzyWuzzy</li>
   <li>Scikit-learn</li>
   <li>Keras</li>
   <li>re</li>
